@@ -7,6 +7,6 @@ I originally wrote this web app in in the Fall / Winter of 2013, going live just
 
 The entire back end is written in php, using phpQuery for all of the DOM manipulation to actually scrape the data. Behind that is a simple MySQL database to round off the LAMP stack nicely.
 
-My next steps will be to convert this all to rails for the Fall / Winter of 2014. 
+My next goal will be to convert this all to rails for the Fall / Winter of 2014. 
 
 Alex
