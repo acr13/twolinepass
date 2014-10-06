@@ -1,0 +1,3 @@
+[18-Feb-2014 19:34:52 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/twolinep/public_html/music/getMusic.php on line 3
+[18-Feb-2014 19:38:02 CST6CDT] PHP Fatal error:  Call to undefined method mysqli::fetch_assoc() in /home/twolinep/public_html/music/getMusic.php on line 25
+[18-Feb-2014 19:40:31 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/twolinep/public_html/music/getMusic.php on line 38

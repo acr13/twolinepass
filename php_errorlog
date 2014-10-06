@@ -1,0 +1,12 @@
+[10-Dec-2013 21:17:47 CST6CDT] PHP Parse error:  syntax error, unexpected '<' in /home/twolinep/public_html/inc/header.inc on line 8
+[21-Jan-2014 18:45:38 CST6CDT] PHP Parse error:  syntax error, unexpected T_RETURN in /home/twolinep/public_html/inc/db/stats.inc on line 55
+[21-Jan-2014 18:46:31 CST6CDT] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/twolinep/public_html/inc/db/stats.inc on line 55
+[22-Jan-2014 17:47:12 CST6CDT] PHP Fatal error:  Cannot redeclare cmp() (previously declared in /home/twolinep/public_html/basic_stats.php:19) in /home/twolinep/public_html/inc/db/stats.inc on line 72
+[22-Jan-2014 17:55:21 CST6CDT] PHP Parse error:  syntax error, unexpected ')' in /home/twolinep/public_html/basic_stats.php on line 80
+[22-Jan-2014 17:55:29 CST6CDT] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/twolinep/public_html/inc/db/stats.inc on line 125
+[22-Jan-2014 17:55:57 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/twolinep/public_html/inc/db/stats.inc on line 129
+[22-Jan-2014 17:56:14 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/twolinep/public_html/inc/db/stats.inc on line 145
+[22-Jan-2014 17:56:16 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/twolinep/public_html/inc/db/stats.inc on line 145
+[22-Jan-2014 17:56:17 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/twolinep/public_html/inc/db/stats.inc on line 145
+[22-Jan-2014 17:56:31 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/twolinep/public_html/inc/db/stats.inc on line 145
+[22-Jan-2014 17:56:42 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/twolinep/public_html/inc/db/stats.inc on line 145

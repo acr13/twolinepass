@@ -1,0 +1,11 @@
+[17-Feb-2014 20:33:47 CST6CDT] PHP Fatal error:  Call to a member function getName() on a non-object in /home/twolinep/public_html/inc/PQLite/PQLite.php on line 522
+[17-Feb-2014 20:34:07 CST6CDT] PHP Fatal error:  Call to a member function getName() on a non-object in /home/twolinep/public_html/inc/PQLite/PQLite.php on line 522
+[17-Feb-2014 20:34:12 CST6CDT] PHP Fatal error:  Call to a member function getName() on a non-object in /home/twolinep/public_html/inc/PQLite/PQLite.php on line 522
+[17-Feb-2014 20:34:24 CST6CDT] PHP Fatal error:  Call to a member function getName() on a non-object in /home/twolinep/public_html/inc/PQLite/PQLite.php on line 522
+[17-Feb-2014 20:36:04 CST6CDT] PHP Fatal error:  Call to a member function getName() on a non-object in /home/twolinep/public_html/inc/PQLite/PQLite.php on line 522
+[17-Feb-2014 20:39:04 CST6CDT] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '../phpQuery.inc' (include_path='.:/usr/local/php53/pear') in /home/twolinep/public_html/inc/test.php on line 3
+[17-Feb-2014 20:41:12 CST6CDT] PHP Fatal error:  Call to undefined method DOMElement::html() in /home/twolinep/public_html/inc/test.php on line 16
+[18-Feb-2014 19:10:04 CST6CDT] PHP Fatal error:  Cannot use object of type DOMElement as array in /home/twolinep/public_html/inc/test.php on line 39
+[18-Feb-2014 19:10:43 CST6CDT] PHP Catchable fatal error:  Object of class DOMElement could not be converted to string in /home/twolinep/public_html/inc/test.php on line 39
+[18-Feb-2014 19:29:48 CST6CDT] PHP Fatal error:  Cannot use object of type DOMElement as array in /home/twolinep/public_html/inc/test.php on line 72
+[18-Feb-2014 19:30:09 CST6CDT] PHP Fatal error:  Cannot use object of type DOMElement as array in /home/twolinep/public_html/inc/test.php on line 72
